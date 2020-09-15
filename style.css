@@ -1,0 +1,106 @@
+* {
+    transition: all .1s ease-in;
+}
+
+body {
+    margin: 0px;
+    padding: 20px;
+    background-color: #3399CC;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 20px solid #2B81AC;
+}
+
+div {
+    margin: auto;
+    width: 65%;
+}
+.ba-cities {
+    padding: 0px;
+    width: 700px;
+    height: 500px;
+    list-style: none;
+    text-align: center;
+    font-size: 0;
+    border: 1px solid white;
+}
+
+.ba-cities li {
+    height: 25%;
+    margin: 0;
+    display: inline-block;
+    box-sizing: border-box;
+    font-size: 24px;
+    border: 3px solid white;
+    opacity: 0.6;
+    padding-top: 20px;
+}
+li:hover {
+    opacity: 1;
+}
+.one {
+    background-color: #3399CC;
+    width: 50%;
+
+}
+
+.two {
+    background-color: #33CCCC;
+    width: 25%;
+}
+
+.three {
+    background-color: #996699;
+    width: 25%;
+}
+
+.four {
+    background-color: #C24747;
+    width: 25%;
+
+}
+
+.five {
+    background-color: #E2674A;
+    width: 25%;
+}
+
+.six {
+    background-color: #FFCC66;
+    width: 25%;
+}
+
+.seven {
+    background-color: #99CC99;
+    width: 25%;
+
+}
+
+.eight {
+    background-color: #669999;
+    width: 25%;
+}
+
+.nine {
+    background-color: #CC6699;
+    width: 50%;
+}
+.ten {
+    background-color: #339966;
+    width: 25%;
+
+}
+
+.eleven {
+    background-color: #666699;
+    width: 100%;
+}
+
+span {
+    color: rgba(255, 255, 255, 0.6);
+    display: block;
+}
+
+h2 .icon-wi-day-rain {
+    display: inline;
+}
